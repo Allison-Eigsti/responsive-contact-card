@@ -1,0 +1,7 @@
+@import url("./reset.css");
+
+.contact-card {
+    max-width: 40%;
+    margin: 2em auto;
+    background-color: red;
+}
